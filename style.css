@@ -437,7 +437,7 @@ footer {
     /* --- HERO --- */
     .hero {
         background-attachment: scroll;
-        background-position: center center;
+       background-position: 30% center;
         background-size: cover;
         padding: 100px 1.5rem 60px;
         min-height: 100svh;
@@ -555,4 +555,4 @@ footer {
     .logo {
         font-size: 1.5rem;
     }
-}git add .
+}
